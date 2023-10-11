@@ -1,0 +1,21 @@
+{
+  "name": "y",
+  "version": "0.0.1",
+  "description": "softlight",
+  "main": "index.js",
+  "authors": {
+    "name": "akoomi",
+    "email": "softlight0629@gmail.com"
+  },
+  "repository": "/y",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/theme-blog": "^2.3.3",
+    "vuepress": "^1.5.3",
+    "vuepress-plugin-sitemap": "^2.3.1"
+  }
+}
